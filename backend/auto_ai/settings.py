@@ -3,6 +3,11 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 
+
+"""
+    Django Unchained!
+"""
+
 load_dotenv()
 
 
